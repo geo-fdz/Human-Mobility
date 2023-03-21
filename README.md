@@ -1,3 +1,2 @@
 # LTA
-LTA data processing
-Aggregate data into spatial unit
+LTA data processing. Aggregating data into spatial unit
