@@ -1,2 +1,2 @@
-# LTA
-LTA data processing. Aggregating data into spatial unit
+# LTA Data Processing
+Aggregating data into spatial unit and create spatial weight matrix.
